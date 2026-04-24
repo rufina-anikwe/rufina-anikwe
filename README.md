@@ -1,6 +1,7 @@
 # Hi there, I'm Rufina🤍
 **AI Automation Engineer & Solutions Architect.**
 *Helping businesses automate 80% of manual tasks using custom AI agents.*
+*Future Investment Banking Analyst (M&A & Restructuring)*
 
 ## 🤖 What I Build
 - **Custom AI Support Agents**: 24/7 automated customer service widgets.
